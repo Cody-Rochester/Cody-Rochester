@@ -1,6 +1,6 @@
 ## Pseudocode Solution
 
-``text
+```text
 Input text "marcomarcomarcomarcomarcomarcomarcomarcopolomarcomarcomarcomarcopolopolomarcomarcomarcomarco"
 Input pattern "polo"
 If entire text hasn't been searched

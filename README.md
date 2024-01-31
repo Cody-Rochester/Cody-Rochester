@@ -2,27 +2,30 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>[Active Directory Home Lab] https://github.com/Cody-Rochester/laburl</b> 
+<b>[Active Directory Home Lab](https://github.com/Cody-Rochester/laburl)</b> 
 
-- <b>[Hashing Algorithms + Coding a File Integrity Monitor] https://github.com/Cody-Rochester/laburl</b>
+<b>[Hashing Algorithms + Coding a File Integrity Monitor](https://github.com/Cody-Rochester/laburl)</b>
   
-- <b>[Azure Sentinel Map with Live Cyber Attacks] https://github.com/Cody-Rochester/laburl</b>
+<b>[Azure Sentinel Map with Live Cyber Attacks](https://github.com/Cody-Rochester/laburl)</b>
 
-- <b>[RestAPI with NodeJS and Express] https://github.com/Cody-Rochester/laburl</b>
+<b>[RestAPI with NodeJS and Express](https://github.com/Cody-Rochester/laburl)</b>
   
-- <b>C# (.NET Desktop Applications)</b>
+<b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
+<b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
- <h2>Certifications</h2>
+<h2>Certifications</h2>
 
-- [CompTIA Security+ ce] (https://www.linkedin.com/in/codyro/overlay/1635545234005/single-media-viewer/?profileId=ACoAACpBAEABaFcJfE9Hl4bkGhw4yJxoZ2ZdGn8)
- - <b> Google Cybersecurity Professional Certificate (https://www.linkedin.com/in/codyro/details/certifications/1635545548599/single-media-viewer/?profileId=ACoAACpBAEABaFcJfE9Hl4bkGhw4yJxoZ2ZdGn8)</b>
- - <b> Google IT Support Professional Certificate (https://www.linkedin.com/in/codyro/details/certifications/1635545504698/single-media-viewer/?profileId=ACoAACpBAEABaFcJfE9Hl4bkGhw4yJxoZ2ZdGn8)</b>
- - <b>Qualys Vulnerability Management - Foundation Certificate (https://www.linkedin.com/in/codyro/details/certifications/1635545504628/single-media-viewer/?profileId=ACoAACpBAEABaFcJfE9Hl4bkGhw4yJxoZ2ZdGn8)</b>
+<b>[CompTIA Security+ ce](https://www.linkedin.com/in/codyro/overlay/1635545234005/single-media-viewer/?profileId=ACoAACpBAEABaFcJfE9Hl4bkGhw4yJxoZ2ZdGn8)</b>
+
+<b>[Google Cybersecurity Professional Certificate](https://www.linkedin.com/in/codyro/details/certifications/1635545548599/single-media-viewer/?profileId=ACoAACpBAEABaFcJfE9Hl4bkGhw4yJxoZ2ZdGn8)</b>
+
+<b>[Google IT Support Professional Certificate](https://www.linkedin.com/in/codyro/details/certifications/1635545504698/single-media-viewer/?profileId=ACoAACpBAEABaFcJfE9Hl4bkGhw4yJxoZ2ZdGn8)</b>
+
+<b>[Qualys Vulnerability Management - Foundation Certificate](https://www.linkedin.com/in/codyro/details/certifications/1635545504628/single-media-viewer/?profileId=ACoAACpBAEABaFcJfE9Hl4bkGhw4yJxoZ2ZdGn8)</b>
 
 <h2>📺 YouTube Videos</h2>
 

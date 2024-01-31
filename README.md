@@ -17,7 +17,14 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Popular YouTube Videos</h2>
+ <h2>Certifications</h2>
+
+- [CompTIA Security+ ce] (https://www.linkedin.com/in/codyro/overlay/1635545234005/single-media-viewer/?profileId=ACoAACpBAEABaFcJfE9Hl4bkGhw4yJxoZ2ZdGn8)
+ - <b> Google Cybersecurity Professional Certificate (https://www.linkedin.com/in/codyro/details/certifications/1635545548599/single-media-viewer/?profileId=ACoAACpBAEABaFcJfE9Hl4bkGhw4yJxoZ2ZdGn8)</b>
+ - <b> Google IT Support Professional Certificate (https://www.linkedin.com/in/codyro/details/certifications/1635545504698/single-media-viewer/?profileId=ACoAACpBAEABaFcJfE9Hl4bkGhw4yJxoZ2ZdGn8)</b>
+ - <b>Qualys Vulnerability Management - Foundation Certificate (https://www.linkedin.com/in/codyro/details/certifications/1635545504628/single-media-viewer/?profileId=ACoAACpBAEABaFcJfE9Hl4bkGhw4yJxoZ2ZdGn8)</b>
+
+<h2>📺 YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)

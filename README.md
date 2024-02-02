@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<b>[Active Directory Home Lab]([https://github.com/Cody-Rochester/laburl](https://github.com/Cody-Rochester/Cybersecurity/blob/main/Home%20Labs/Active%20Directory%20Home%20Lab.md)</b> 
+<b>[Active Directory Home Lab](https://github.com/Cody-Rochester/Cybersecurity/blob/main/Home%20Labs/Active%20Directory%20Home%20Lab.md)</b> 
 
 <b>[Hashing Algorithms + Coding a File Integrity Monitor](https://github.com/Cody-Rochester/laburl)</b>
   

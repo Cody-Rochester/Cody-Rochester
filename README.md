@@ -1,12 +1,12 @@
 <h1>Hi, I'm Cody! <br/><a href="https://www.linkedin.com/in/codyro/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻[Cybersecurity Projects](https://github.com/Cody-Rochester/Cybersecurity/tree/main):</h2>
+<h2>👨‍💻 <a href="https://github.com/Cody-Rochester/Cybersecurity/tree/main/"> Cybersecurity Projects :</a></h2>
 
 <b>[Active Directory Home Lab](https://github.com/Cody-Rochester/Cybersecurity/blob/main/Home%20Labs/Active%20Directory%20Home%20Lab.md)</b> 
 
 <b>[Hashing Algorithms + Coding a File Integrity Monitor](https://github.com/Cody-Rochester/laburl)</b>
   
-<b>[Azure Sentinel Map with Live Cyber Attacks](https://github.com/Cody-Rochester/laburl)</b>
+<b>[Sentinel Live Attacks Heat Map SIEM Lab](https://github.com/Cody-Rochester/Cybersecurity/blob/main/Home%20Labs/Sentinel_Live_Attacks_Heat_Map_SIEM_Lab/README.md)</b>
 
 <b>[RestAPI with NodeJS and Express](https://github.com/Cody-Rochester/laburl)</b>
   

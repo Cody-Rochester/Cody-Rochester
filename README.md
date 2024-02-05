@@ -19,13 +19,17 @@
 
 <h2>Certifications</h2>
 
-<b>[CompTIA Security+ ce](https://www.linkedin.com/in/codyro/overlay/1635545234005/single-media-viewer/?profileId=ACoAACpBAEABaFcJfE9Hl4bkGhw4yJxoZ2ZdGn8)</b>
+<b>[CompTIA Security+ ce](https://github.com/Cody-Rochester/Cody-Rochester/assets/107632714/7c2e4a34-f11a-4a61-b5ae-0b2495b94e17)
+</b>
 
-<b>[Google Cybersecurity Professional Certificate](https://www.linkedin.com/in/codyro/details/certifications/1635545548599/single-media-viewer/?profileId=ACoAACpBAEABaFcJfE9Hl4bkGhw4yJxoZ2ZdGn8)</b>
+<b>[Google Cybersecurity Professional Certificate](https://github.com/Cody-Rochester/Cody-Rochester/assets/107632714/fbcd52cc-2129-43ee-8f9a-290083210b58)
+</b>
 
-<b>[Google IT Support Professional Certificate](https://www.linkedin.com/in/codyro/details/certifications/1635545504698/single-media-viewer/?profileId=ACoAACpBAEABaFcJfE9Hl4bkGhw4yJxoZ2ZdGn8)</b>
+<b>[Google IT Support Professional Certificate](https://github.com/Cody-Rochester/Cody-Rochester/assets/107632714/5f78cd14-b90d-487f-a4f8-e8e1d6d02b7f)
+</b>
 
-<b>[Qualys Vulnerability Management - Foundation Certificate](https://www.linkedin.com/in/codyro/details/certifications/1635545504628/single-media-viewer/?profileId=ACoAACpBAEABaFcJfE9Hl4bkGhw4yJxoZ2ZdGn8)</b>
+<b>[Qualys Vulnerability Management - Foundation Certificate](https://github.com/Cody-Rochester/Cody-Rochester/assets/107632714/f59a877f-e285-4215-b146-3a4524c1716a)
+</b>
 
 <h2>📺 YouTube Videos</h2>
 

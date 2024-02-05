@@ -1,6 +1,6 @@
 <h1>Hi, I'm Cody! <br/><a href="https://www.linkedin.com/in/codyro/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻[Cybersecurity Projects](https://github.com/Cody-Rochester/Cybersecurity/tree/main):</h2>
 
 <b>[Active Directory Home Lab](https://github.com/Cody-Rochester/Cybersecurity/blob/main/Home%20Labs/Active%20Directory%20Home%20Lab.md)</b> 
 

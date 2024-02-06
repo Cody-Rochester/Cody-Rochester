@@ -24,7 +24,7 @@
 <b>[Qualys Vulnerability Management - Foundation Certificate](https://github.com/Cody-Rochester/Cody-Rochester/assets/107632714/f59a877f-e285-4215-b146-3a4524c1716a)
 </b>
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 👋 Connect with me:</h2>
 
 [<img align="left" alt="Cody Rochester | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 

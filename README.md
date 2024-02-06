@@ -26,7 +26,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" color="white" alt="Cody Rochester | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Cody Rochester | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [linkedin]: https://linkedin.com/in/codyro

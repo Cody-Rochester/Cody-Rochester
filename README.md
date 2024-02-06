@@ -3,16 +3,12 @@
 <h2>👨‍💻 <a href="https://github.com/Cody-Rochester/Cybersecurity/tree/main/"> Cybersecurity Projects :</a></h2>
 
 <b>[Active Directory Home Lab](https://github.com/Cody-Rochester/Cybersecurity/blob/main/Home%20Labs/Active%20Directory%20Home%20Lab.md)</b> 
-
-<b>[Hashing Algorithms + Coding a File Integrity Monitor](https://github.com/Cody-Rochester/laburl)</b>
   
 <b>[Sentinel Live Attacks Heat Map SIEM Lab](https://github.com/Cody-Rochester/Cybersecurity/blob/main/Home%20Labs/Sentinel_Live_Attacks_Heat_Map_SIEM_Lab/README.md)</b>
 
-<b>[RestAPI with NodeJS and Express](https://github.com/Cody-Rochester/laburl)</b>
   
 <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+
   - [Keylogger with Email Capability](https://github.com/Cody-Rochester/Cybersecurity/tree/main/Home%20Labs/Keylogger%20with%20Email%20Output)
 
     
@@ -41,16 +37,4 @@
 [linkedin]: https://linkedin.com/in/codyro
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->

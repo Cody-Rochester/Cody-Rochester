@@ -10,7 +10,7 @@
 
     
 
-<h2>Certifications</h2>
+<h2>Certifications:</h2>
 
 <b>[CompTIA Security+ ce](https://github.com/Cody-Rochester/Cody-Rochester/assets/107632714/7c2e4a34-f11a-4a61-b5ae-0b2495b94e17)
 </b>

@@ -2,20 +2,13 @@
 
 <h2>👨‍💻 <a href="https://github.com/Cody-Rochester/Cybersecurity/tree/main/"> Cybersecurity Projects :</a></h2>
 
-<b>Home Labs</b>
-
 <b>[Active Directory Home Lab](https://github.com/Cody-Rochester/Cybersecurity/blob/main/Home%20Labs/Active%20Directory%20Home%20Lab.md)</b> 
   
 <b>[Sentinel Live Attacks Heat Map SIEM Lab](https://github.com/Cody-Rochester/Cybersecurity/blob/main/Home%20Labs/Sentinel_Live_Attacks_Heat_Map_SIEM_Lab/README.md)</b>
 
-  
-<b>C# (.NET Desktop Applications)</b>
-
-  - [Keylogger with Email Capability](https://github.com/Cody-Rochester/Cybersecurity/tree/main/Home%20Labs/Keylogger%20with%20Email%20Output)
+<b>[Keylogger with Email Capability](https://github.com/Cody-Rochester/Cybersecurity/tree/main/Home%20Labs/Keylogger%20with%20Email%20Output)</b>
 
     
-<b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>Certifications</h2>
 
